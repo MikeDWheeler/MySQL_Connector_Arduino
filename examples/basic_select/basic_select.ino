@@ -5,7 +5,7 @@
   and use the data returned. For this, we use the Cursor class to execute
   the query and get the results.
 
-  It demonstrates who methods for running queries. The first allows you to
+  It demonstrates two methods for running queries. The first allows you to
   allocate memory for the cursor and later reclaim it, the second shows how
   to use a single instance of the cursor use throughout a sketch.
 
